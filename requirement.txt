@@ -1,0 +1,4 @@
+this is chat bot
+emoji
+type option 
+colors
